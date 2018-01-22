@@ -1,7 +1,7 @@
 # Portfolio
 
 # Planning
-using webflow as wireframe
+## using Webflow.com as WireFrame
 file:///Users/AishaBraud/Desktop/wdi_unit3/aishabraud92.github.io/index.html
 
 # color scheme/pallette
